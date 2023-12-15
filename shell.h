@@ -1,4 +1,3 @@
-91% of storage used … If you run out, you won't have enough storage to create, edit, and upload files. Get 100 GB of storage for ₦950.00 ₦240.00/month for 3 months.
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
